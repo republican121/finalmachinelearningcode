@@ -15,28 +15,30 @@ Phase 6 – Results & Evaluation**
 **I use google collab but to run on local machine** 
 
 
-# 1. Clone the repository
+
+1. Clone the repository
+
 git clone <your-repo-link>
 cd uk-house-price-prediction
 
-# 2. (Optional but recommended) Create a virtual environment
+2. (Optional but recommended) Create a virtual environment
 
 python -m venv venv
  
- # Activate it
+Activate it
 
-# On Windows:
+On Windows:
 
 venv\Scripts\activate
 
-# On macOS/Linux:
+On macOS/Linux:
 
 source venv/bin/activate
 
-# 3. Install required dependencies
+3. Install required dependencies
 
 pip install -r requirements.txt
 
-# 4. Run the project
+ 4. Run the project
 
 python main.py
